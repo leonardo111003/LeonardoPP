@@ -1,0 +1,6 @@
+nome = (input("digite seu nome"))
+senha = (input("digite sua senha"))
+jaemprestadas = ("livro, caderno, penal")
+aserememprestadas = ("lapis,caneta,borracha")
+print(jaemprestadas)
+print(aserememprestadas)
